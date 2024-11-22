@@ -1,0 +1,87 @@
+body{
+	background-color: black;
+	margin-top: 0;
+
+}
+
+video{
+	position: absolute;
+	
+
+}
+
+.barraSuperior{
+	height: 0px;
+	margin-top: 0px;
+	
+	
+	
+}
+
+.senhaAtual{
+	text-align: center;
+	color: white;
+	margin-top: 0px;
+	-webkit-text-stroke-width: 2px;
+	-webkit-text-stroke-color: black;
+
+}
+
+.senhaAtualTexto{
+	font-size: 65px;
+	font-weight: 400px;
+}
+
+#senhaAtualNumero{
+	font-size: 100pt;
+	font-weight: 800;
+}
+
+.row{
+	color:antiquewhite
+}
+.ultimaSenha{
+	font-weight: 900;
+	text-align: center;
+	background-color: #837e7e;
+	background-size: auto;
+	height: 140px;
+	margin-top: 30px;
+}
+
+#ultimaSenhaTexto{
+	font-size: 20px;
+	color: rgb(12, 11, 9);
+}
+
+#ultimaSenhaNumero{
+	font-size: 40px;
+	color: rgb(247, 240, 240);
+}
+
+.Logo{
+	max-width: 250px;
+	display: flex;
+	position: inherit;
+}
+
+.Texto{
+	font-size: 15pt;
+	font-weight: 600;
+	color:rgb(247, 242, 242);
+}
+
+.subtitulo{
+	font-size: 20px;
+	font-weight: 200;
+	color:rgb(243, 6, 6)
+}
+
+footer{
+	flex-direction: column-reverse;
+	text-align: center;
+}
+
+audio{
+	display: none;
+}
